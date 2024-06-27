@@ -1,0 +1,263 @@
+/*===========================
+    Screen Size 480px: Small screens (mobile phones)
+===========================*/
+@media only screen and (max-width: 480px) {
+  .suffa_dishes .popular_dishes{
+    width: 100%;
+    height: 300px;
+   
+   
+}
+.suffa_dishes img{
+  width: 100%;
+  height: 100%;
+}
+.popular_dishes h6{
+  font-size: 30px;
+
+}
+.img_contend{
+  width: 100%;
+  height: 220px;
+}
+.delicious_food img{
+  width: 100%;
+  height: 100%;
+}
+.insta_sec .pulao_sec{
+  height: 300px;
+}
+.order-meal h1{
+  font-size: 20px;
+}
+.order-meal .btn-group span{
+  font-size: 17px;
+}
+.welcome h1{
+  font-size: 20px;
+}
+.social{
+  top: 25%;
+
+}
+.img_contend{
+  height: 350px;
+  padding: 10px;
+ 
+}
+.our_client h1 {
+   font-size: 20px;
+   margin-top: 70px;
+}
+.our_client h2{
+  font-size: 22px;
+ 
+ 
+}
+.single_img img{
+  width: 100%;
+  height: 230px;
+}
+
+.insta_sec .paneer_sec{
+      height: 350px;
+}
+.insta_sec .pulao_sec{
+  height: 350px;
+}
+.insta_sec span{
+ font-size: 25px;
+}
+
+.Counter_container .row {
+  display: flex;
+  flex-wrap: wrap;
+}
+.Counter_container .col-md-3 {
+  flex: 0 0 50%;
+  max-width: 50%;
+}
+#footer{
+  margin-top: -120px;
+}
+#footer .container .flex img{
+   margin-left: auto;
+   margin-right: auto;
+
+}
+
+
+}
+
+
+
+
+
+/*===========================
+  481px to 767px: Medium screens (large phones, small tablets)
+===========================*/
+
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+
+ 
+  .suffa_dishes .popular_dishes{
+    width: 100%;
+    height: 350px;
+   
+}
+.suffa_dishes img{
+  width: 100%;
+  height: 100%;
+}
+.popular_dishes h6{
+  font-size: 30px;
+
+}
+.img_contend{
+  width: 100%;
+  height: 300px;
+}
+.delicious_food img{
+  width: 100%;
+  height: 100%;
+}
+.order-meal h1{
+  font-size: 20px;
+}
+.order-meal .btn-group span{
+  font-size: 17px;
+}
+.welcome h1{
+  font-size: 25px;
+}
+.social{
+  top: 30%;
+
+}
+.img_contend{
+  height: 350px;
+  padding: 10px;
+ 
+}
+.Counter_container .row {
+  display: flex;
+  flex-wrap: wrap;
+}
+.Counter_container .col-md-3 {
+  flex: 0 0 50%;
+  max-width: 50%;
+}
+#footer{
+  margin-top: -120px;
+}
+#footer .container .flex img{
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
+
+
+
+}
+
+
+
+
+
+/*===========================
+     768px to 991px: Large screens (large tablets, small laptops)
+===========================*/
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+ 
+  .suffa_dishes .popular_dishes{
+    width: 30%;
+    height: 220px;
+    margin: 5px;
+    flex-wrap: nowrap;
+   
+}
+.img_contend, .p_contend{
+  width: 100%;
+  height: 600px;
+ 
+}
+.delicious_food img{
+  width: 100%;
+  height: 100%;
+  
+ 
+}
+.navbar .navbar-collapse {
+  display: none;
+}
+
+.img_contend {
+  width: 58.333333%;
+  max-width: 58.333333%;
+  margin-bottom: -300px !important;
+}
+.p_contend {
+  width: 41.666667%;
+  max-width: 41.666667%;
+  margin-bottom: -200px !important;
+}
+.img_contend{
+  padding: 0;
+  height: 400px;
+ 
+ 
+}
+.delicious_food p{
+  font-size: 14px;
+}
+.single_img img{
+  width: 100%;
+  height: 300px;
+}
+.Counter_container .row {
+  display: flex;
+  flex-wrap: wrap;
+}
+.Counter_container .col-md-3 {
+  flex: 0 0 50%;
+  max-width: 50%;
+}
+#footer{
+  margin-top: -120px;
+}
+#footer .container .flex img{
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+}
+
+
+
+
+/*===========================
+    992px to 1150px: large screens (laptops, desktops)
+===========================*/
+@media only screen and (min-width: 992px) and (max-width: 1150px) {
+  
+  .suffa_dishes .popular_dishes{
+    width: 32%;
+    height: 220px;
+    margin: 5px;
+   
+}
+
+}
+/*===========================
+  1151px to All : Extra large screens (laptops, desktops)
+===========================*/
+@media only screen and (min-width: 1151px) {
+
+
+}
+
+
